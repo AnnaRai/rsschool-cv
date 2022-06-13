@@ -94,7 +94,8 @@ body{
   font-size: 18px;
   line-height: 1.2;
   font-weight: 600;
-  color: #E1DFDD;
+  color: black;
+  background-color:#E1DFDD;
 }
 
 .wrapper{
